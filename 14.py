@@ -1,6 +1,6 @@
 import ast
 my_file = open("config.json")
-# moshe
+# amatzia
 c = dict(ast.literal_eval(my_file.read()))
 print(c["name"])
 if c["name"] == "aviel":
