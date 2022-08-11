@@ -6,6 +6,8 @@ def save_name(names_file):
 
 
 def show_names(names_file):
+    print("sds")
+    print("ddsdsd")
     my_file = open(names_file, "r")
     for name in my_file.readlines():
         print(name, end='')
