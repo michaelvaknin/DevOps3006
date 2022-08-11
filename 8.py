@@ -5,3 +5,4 @@ from fibo import a, fib
 my_fib(100)
 aharon_fib(100)
 print(a)
+print("yes")
