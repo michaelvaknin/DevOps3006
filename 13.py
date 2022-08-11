@@ -6,6 +6,7 @@ def save_name(names_file):
 
 def hain(avi):
     print(avi)
+    print("sdsd")
 def show_names(names_file):
     my_file = open(names_file, "r")
     for name in my_file.readlines():
