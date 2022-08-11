@@ -23,3 +23,5 @@ def print_another():
 print_something()
 #new_function = dec(print_another)
 #new_function()
+
+print("babagi la fortinaite ")
